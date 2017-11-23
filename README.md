@@ -48,7 +48,6 @@
 	| `RadioButton`        | `rb_`               |
 	| `Spinner`            | `spn_`              |
 	| `ListView`           | `lv_`               |
-	| `ProgressBar`        | `pb_`               |
 	| `Menu`               | `menu_`             |
 
 	(?) 
