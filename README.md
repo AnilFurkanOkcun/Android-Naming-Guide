@@ -50,13 +50,7 @@
 	| `ListView`           | `lv_`               |
 	| `Menu`               | `menu_`             |
 
-	(?) 
-	
-	a) ViewType_Description. `tv_name` , `image_fav`
-	
-	b) ActivityName_Act_ViewType_Description. `main_act_tv_name`, `score_frag_button_okay`
-	
-	c) Activity_ActivityName_ViewType_Description. `activity_main_tv_name`, `fragment_score_button_okay`
+- Activity_ActivityName_ViewType_Description. `activity_main_tv_name`, `fragment_score_button_okay`
 
 ### Colors.xml
 
