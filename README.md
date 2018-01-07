@@ -39,11 +39,11 @@
 
 	| Element            | Prefix            |
 	| -----------------  | ----------------- |
-	| `TextView`           | `tv_` or `text` (?) | 
-	| `EditText`           | `et_`               |
-	| `ImageView`          | `img_`              |
-	| `Button`             | `btn_`  or `button_` (?) |
-	| `ToggleButton`       | `togglebtn_`  or `switch_`(?)  or `tb_`    |
+	| `TextView`           | `tv_`  	 | 
+	| `EditText`           | `et_`           |
+	| `ImageView`          | `img_`		|
+	| `Button`             | `btn_`  	 |
+	| `ToggleButton`       | `tglbtn_`    	 |
 	| `Checkbox`           | `chk_`              |
 	| `RadioButton`        | `rb_`               |
 	| `Spinner`            | `spn_`              |
@@ -62,11 +62,6 @@
 
 - For color, use names like `gray_light`, not `button_foreground`.
 
-- If it's a color from [Material Design Color Palette](https://material.io/guidelines/style/color.html#color-color-palette) then; (?)
-
-	a) write name of the color. ` <color name="red800">#C62828</color> `
-
-	b) Name it like `red_light` and write name of the color with comment `<color name="red_dark">#C62828</color> <!--Red 800--> `
 
 ### Strings.xml
 
