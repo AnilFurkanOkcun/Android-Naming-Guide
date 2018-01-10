@@ -26,10 +26,11 @@
 ### Attributes Order 
 
 1. View Id
-2. Style
+2. Style and Theme
 3. Layout width and layout height
-4. Other layout attributes, sorted alphabetically
-5. Remaining attributes, sorted alphabetically
+4. Other attributes
+5. Paddings and margins (Start-End-Top-Bottom)
+6. Constrints and Relations (Start-End-Top-Bottom)
 
     Also group similar attributes together.
 
