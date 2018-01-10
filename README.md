@@ -10,6 +10,15 @@
 - Object names start with lowercase, each subsequent words should start with uppercase. `userOne`, `bluetoothDevice`
 - Acronyms should only capitalize the first letter. For example, `functionUrl` and `unitId`. Not `unitID`.
 - Constants should be all caps with underscores. `PI_NUMBER`
+- Keys of these components __must__ be defined as a `static final` fields and they should be prefixed as indicated below.
+
+| Element            | Field Name Prefix |
+| -----------------  | ----------------- |
+| SharedPreferences  | `PREF_`             |
+| Bundle             | `BUNDLE_`           |
+| Fragment Arguments | `ARGUMENT_`         |
+| Intent Extra       | `EXTRA_`            |
+| Intent Action      | `ACTION_`           |
 
 ### Method Naming
 
