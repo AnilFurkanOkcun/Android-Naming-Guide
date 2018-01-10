@@ -12,13 +12,13 @@
 - Constants should be all caps with underscores. `PI_NUMBER`
 - Keys of these following components __must__ be defined as a `static final` fields and they should be prefixed as indicated below.
 
-| Element            | Field Name Prefix |
-| -----------------  | ----------------- |
-| SharedPreferences  | `PREF_`             |
-| Bundle             | `BUNDLE_`           |
-| Fragment Arguments | `ARGUMENT_`         |
-| Intent Extra       | `EXTRA_`            |
-| Intent Action      | `ACTION_`           |
+	| Element            | Field Name Prefix |
+	| -----------------  | ----------------- |
+	| SharedPreferences  | `PREF_`             |
+	| Bundle             | `BUNDLE_`           |
+	| Fragment Arguments | `ARGUMENT_`         |
+	| Intent Extra       | `EXTRA_`            |
+	| Intent Action      | `ACTION_`           |
 
 ### Method Naming
 
