@@ -30,9 +30,8 @@
 3. Layout width and layout height
 4. Other attributes
 5. Paddings and margins (Start-End-Top-Bottom)
-6. Constrints and Relations (Start-End-Top-Bottom)
-
-    Also group similar attributes together.
+6. constraintDimensionRatio and constraintBias
+7. Constraints and Relations (Start-End-Top-Bottom)
 
 ### ID Naming
 
