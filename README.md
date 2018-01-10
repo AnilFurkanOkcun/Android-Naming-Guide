@@ -10,7 +10,7 @@
 - Object names start with lowercase, each subsequent words should start with uppercase. `userOne`, `bluetoothDevice`
 - Acronyms should only capitalize the first letter. For example, `functionUrl` and `unitId`. Not `unitID`.
 - Constants should be all caps with underscores. `PI_NUMBER`
-- Keys of these components __must__ be defined as a `static final` fields and they should be prefixed as indicated below.
+- Keys of these following components __must__ be defined as a `static final` fields and they should be prefixed as indicated below.
 
 | Element            | Field Name Prefix |
 | -----------------  | ----------------- |
