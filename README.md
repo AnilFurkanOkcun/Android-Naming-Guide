@@ -6,13 +6,13 @@
 - For classes that extend an Android component, the name of the class should end with the name of the component. Each word should start with uppercase. `SignInActivity`, `SignInFragment`, `ImageUploaderService`, `ChangePasswordDialog`
 - Class member ordering
 
-	1. Constants
-	2. Fields
-	3. Constructors
-	4. Override methods and callbacks (public or private)
-	5. Public methods
-	6. Private methods
-	7. Inner classes or interfaces
+1. Constants
+2. Fields
+3. Constructors
+4. Override methods and callbacks (public or private)
+5. Public methods
+6. Private methods
+7. Inner classes or interfaces
 
 ### Object Naming 
 
